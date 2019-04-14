@@ -1,0 +1,14 @@
+body {
+    text-align: center;
+}
+
+p {
+    text-align: left;
+    border-bottom: 1px black dotted;
+}
+
+input {
+    font-size: 20px;
+    border: 2px blue solid;
+    border-radius: 5px;
+}
